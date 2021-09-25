@@ -1,6 +1,6 @@
 {
   "name": "react-gradients",
-  "homepage": "https://fu4303.github.io/react-gradients",
+  "homepage": "https://react-gradients.vercel.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
